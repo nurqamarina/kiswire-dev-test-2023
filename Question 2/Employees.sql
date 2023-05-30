@@ -1,0 +1,1 @@
+SELECT TOP 5 e.EmployeeID, e.Salary FROM dbo.Employees AS e ORDER BY e.Salary DESC;
