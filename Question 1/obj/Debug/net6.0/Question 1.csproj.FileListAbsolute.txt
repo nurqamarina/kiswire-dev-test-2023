@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\obj\Debug\net6.0\Question 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\obj\Debug\net6.0\Question 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\obj\Debug\net6.0\Question 1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\obj\Debug\net6.0\Question 1.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\obj\Debug\net6.0\Question 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\bin\Debug\net6.0\Question 1.exe
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\bin\Debug\net6.0\Question 1.deps.json
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\bin\Debug\net6.0\Question 1.runtimeconfig.json
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\bin\Debug\net6.0\Question 1.dll
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\bin\Debug\net6.0\Question 1.pdb
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\obj\Debug\net6.0\Question 1.dll
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\obj\Debug\net6.0\refint\Question 1.dll
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\obj\Debug\net6.0\Question 1.pdb
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\obj\Debug\net6.0\Question 1.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\DEV_FOLDER\kiswire-dev-test-2023\Question 1\obj\Debug\net6.0\ref\Question 1.dll
