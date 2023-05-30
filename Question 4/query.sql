@@ -1,0 +1,1 @@
+SELECT c.* FROM Customers AS c INNER JOIN Orders as o ON c.CustomerID = o.CustomerID GROUP BY c.CustomerID HAVING COUNT(o.OrderID) >= 3;
