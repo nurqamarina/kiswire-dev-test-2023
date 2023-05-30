@@ -1,4 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+/* 
+Question 1
+Write a C# function that takes an integer parameter n and returns the sum of all numbers from 1 to
+n. For example, if n is 5, the function should return 15 (1 + 2 + 3 + 4 + 5).
+*/
+
 using System;
 
 class Program{
